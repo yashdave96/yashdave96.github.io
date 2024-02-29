@@ -5,7 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile
+  <a href="https://www.linkedin.com/in/example/">
+       <span class="fa-stack fa-lg">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+        </span>
   </a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
