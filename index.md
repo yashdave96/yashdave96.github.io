@@ -8,11 +8,18 @@
 
 Language(s): C++
 
-Description: Used C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system that users interact with via the terminal
+Description: Used C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system and Emergency Room Dashboard that users interact with via the terminal
+
+[IMAGE?]
 
 ---
 [Bokeh Visualization Library Demonstration](/pdf/sample_presentation.pdf)
 
+Language(s): Python
+
+Description: Demonstration of the Bokeh Python viusalization library, while analyzing the dominance of the men's tennis big three: Roger Federer, Rafa Nadal, and Novak Djokovic! 
+
+[IMAGE?]
 
 ---
 
