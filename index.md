@@ -8,7 +8,7 @@
 
 Language(s): C++
 
-Used C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system that users interact with via the terminal
+Description: Used C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system that users interact with via the terminal
 
 ---
 [Bokeh Visualization Library Demonstration](/pdf/sample_presentation.pdf)
