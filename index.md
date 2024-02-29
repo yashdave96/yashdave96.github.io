@@ -17,7 +17,7 @@ Description: Used C++ Data Structures and Algorithms to create an Emergency Medi
 
 Language(s): Python
 
-Description: Demonstration of the Bokeh Python viusalization library, while analyzing a tennis data set to visualize the dominance of the men's tennis big three: Roger Federer, Rafa Nadal, and Novak Djokovic! 
+Description: Demonstration of the Bokeh Python viusalization library while analyzing a tennis data set to visualize the dominance of the men's tennis big three: Roger Federer, Rafa Nadal, and Novak Djokovic.
 
 [IMAGE?]
 
