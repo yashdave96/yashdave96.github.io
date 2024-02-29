@@ -6,7 +6,7 @@
 
 [Electronic Medical Record System/ER Dashboard](/sample_page)
 
-C++
+Language(s): C++
 
 Used C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system that users interact with via the terminal
 
