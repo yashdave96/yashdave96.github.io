@@ -4,11 +4,11 @@
 
 ### Projects 
 
-[Project 1 Title](/sample_page)
+Electronic Medical Record System/ER Dashboard(/sample_page)
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+Bokeh Visualization Library Demonstration(/pdf/sample_presentation.pdf)
 
 
 ---
