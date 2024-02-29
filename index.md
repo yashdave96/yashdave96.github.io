@@ -4,11 +4,11 @@
 
 ### Projects 
 
-Electronic Medical Record System/ER Dashboard(/sample_page)
+[Electronic Medical Record System/ER Dashboard](/sample_page)
 
 
 ---
-Bokeh Visualization Library Demonstration(/pdf/sample_presentation.pdf)
+[Bokeh Visualization Library Demonstration](/pdf/sample_presentation.pdf)
 
 
 ---
