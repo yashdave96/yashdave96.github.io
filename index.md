@@ -6,18 +6,18 @@
 
 [Electronic Medical Record System/ER Dashboard](/sample_page)
 
-<span style="color:black"> Language(s): C++
+<span style="color:black"> Language(s): C++ </span>
 
-Description: Personal project using C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system and Emergency Room Dashboard that users interact with via the terminal. </span>
+<span style="color:black"> Description: Personal project using C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system and Emergency Room Dashboard that users interact with via the terminal. </span>
 
 <img src = "images/EMR Image.png">
 
 ---
 [Bokeh Visualization Library Demonstration](/pdf/sample_presentation.pdf)
 
-<span style="color:black"> Language(s): Python
+<span style="color:black"> Language(s): Python </span>
 
-Description: Demonstration of the Bokeh Python viusalization library while analyzing a tennis data set to visualize the Grand Slam tournaments and the dominance of the men's tennis big three: Roger Federer, Rafa Nadal, and Novak Djokovic. </span>
+<span style="color:black"> Description: Demonstration of the Bokeh Python viusalization library while analyzing a tennis data set to visualize the Grand Slam tournaments and the dominance of the men's tennis big three: Roger Federer, Rafa Nadal, and Novak Djokovic. </span>
 
 <img src = "images/Bokeh Image.png">
 ---
