@@ -6,7 +6,7 @@
 
 [Electronic Medical Record System/ER Dashboard](/sample_page)
 
-Language(s): C++
+<span style="color:black"> Language(s): C++ </span>
 
 Description: Personal project using C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system and Emergency Room Dashboard that users interact with via the terminal.
 
