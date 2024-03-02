@@ -8,7 +8,7 @@
 
 Language(s): C++
 
-Description: Used C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system and Emergency Room Dashboard that users interact with via the terminal.
+Description: Personal project using C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system and Emergency Room Dashboard that users interact with via the terminal.
 
 [IMAGE?]
 
