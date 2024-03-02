@@ -1,5 +1,5 @@
 title: Yash Dave # your name (or website title) here
-logo:  <img src = "images/image.png" height = "500" width = "500> # your photo (or logo) here
+logo:  "images/image.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/yash-dave-1234822b1">
   <img src = "images/logo.png" height = "50" width = "50">  
