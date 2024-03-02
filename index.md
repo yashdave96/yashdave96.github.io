@@ -19,8 +19,7 @@ Language(s): Python
 
 Description: Demonstration of the Bokeh Python viusalization library while analyzing a tennis data set to visualize the Grand Slam tournaments and the dominance of the men's tennis big three: Roger Federer, Rafa Nadal, and Novak Djokovic.
 
-[IMAGE?]
-
+<img src = "images/Bokeh Image.pg">
 ---
 
 
