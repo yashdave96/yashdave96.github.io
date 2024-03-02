@@ -10,7 +10,7 @@ Language(s): C++
 
 Description: Personal project using C++ Data Structures and Algorithms to create an Emergency Medical Record (EMR) system and Emergency Room Dashboard that users interact with via the terminal.
 
-[IMAGE?]
+<img src = "images/EMR Image.png">
 
 ---
 [Bokeh Visualization Library Demonstration](/pdf/sample_presentation.pdf)
