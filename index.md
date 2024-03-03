@@ -4,6 +4,8 @@
 
 ### Projects 
 
+---
+
 [Electronic Medical Record System/ER Dashboard](/sample_page)
 
 Language(s): C++ 
