@@ -6,7 +6,7 @@
 
 ---
 
-### [Electronic Medical Record System/ER Dashboard](/sample_page)
+### [Electronic Medical Record System/ER Dashboard]([/sample_page](https://github.com/yashdave96/EMR-Project.git))
 
 Language(s): C++ 
 
