@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects 
+## Projects 
 
 ---
 
