@@ -14,6 +14,8 @@ Description: Personal project using C++ Data Structures and Algorithms to create
 
 <img src = "images/EMR Image.png">
 
+<img src = "image/EMR Image 2.png">
+
 ---
 [Bokeh Visualization Library Demonstration](/pdf/sample_presentation.pdf)
 
