@@ -6,7 +6,7 @@
 
 ---
 
-[Electronic Medical Record System/ER Dashboard](/sample_page)
+### [Electronic Medical Record System/ER Dashboard](/sample_page)
 
 Language(s): C++ 
 
@@ -17,7 +17,7 @@ Description: Personal project using C++ Data Structures and Algorithms to create
 <img src = "images/EMR Image 2.png">
 
 ---
-[Bokeh Visualization Library Demonstration](/pdf/sample_presentation.pdf)
+### [Bokeh Visualization Library Demonstration](/pdf/sample_presentation.pdf)
 
 Language(s): Python 
 
