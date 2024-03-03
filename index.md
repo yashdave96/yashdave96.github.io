@@ -17,7 +17,7 @@ Description: Personal project using C++ Data Structures and Algorithms to create
 <img src = "images/EMR Image 2.png">
 
 ---
-### [Bokeh Visualization Library Demonstration](/pdf/sample_presentation.pdf)
+### [Bokeh Visualization Library Demonstration](https://github.com/yashdave96/Bokeh-Demonstration)
 
 Language(s): Python 
 
