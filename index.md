@@ -21,7 +21,7 @@ Description: Personal project using C++ Data Structures and Algorithms to create
 
 Language(s): Python 
 
-Description: Demonstration of the Bokeh Python viusalization library while analyzing a tennis data set to visualize the Grand Slam tournaments and the dominance of the men's tennis big three: Roger Federer, Rafa Nadal, and Novak Djokovic. 
+Description: Demonstration on how to use the Bokeh Python viusalization library while analyzing a tennis data set to visualize the Grand Slam tournaments and the dominance of the men's tennis big three: Roger Federer, Rafa Nadal, and Novak Djokovic. 
 
 <img src = "images/Bokeh Image.png"> 
 
