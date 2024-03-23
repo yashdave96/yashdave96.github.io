@@ -34,6 +34,10 @@ Language(s): Python
 
 Description: Collaborated with a team to apply Natural Language Processing, Unsupervised Learning, and Supervised Learning to analyze,  train, and evaluate a model which can classify the topic of any given New York Times article.
 
+<img src = "images/NYT Class Image 1.png">
+
+<img src = "images/NYT Class Image 2.png">
+
 
 ---
 
