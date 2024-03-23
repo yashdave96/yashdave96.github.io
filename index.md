@@ -32,7 +32,7 @@ Description: Demonstration on how to use the Bokeh Python viusalization library 
 
 Language(s): Python
 
-Description: Collaborated with a team to apply Natural Language Processing, Unsupervised Learning, and Supervised Learning to train a model which can classify which topic any given New York Times article belongs to
+Description: Collaborated with a team to apply Natural Language Processing, Unsupervised Learning, and Supervised Learning to analyze,  train, and evaluate a model which can classify the topic of any given New York Times article.
 
 
 ---
