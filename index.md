@@ -26,6 +26,15 @@ Description: Demonstration on how to use the Bokeh Python viusalization library 
 <img src = "images/Bokeh Image.png"> 
 
 <img src = "images/Bokeh Image 2.png">
+
+---
+### [Classifying New York Times Articles Using Machine Learning](/pdf/'NYT ML Report')
+
+Language(s): Python
+
+Description: Collaborated with a team to apply Natural Language Processing, Unsupervised Learning, and Supervised Learning to train a model which can classify which topic any given New York Times article belongs to
+
+
 ---
 
 
