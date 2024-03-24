@@ -28,7 +28,7 @@ Description: Demonstration on how to use the Bokeh Python viusalization library 
 <img src = "images/Bokeh Image 2.png">
 
 ---
-### [Classifying New York Times Articles Using Machine Learning](/pdf/'NYT ML Report.pdf')
+### [Classifying New York Times Articles Using Machine Learning](/pdf/NYT ML Report.pdf)
 
 Language(s): Python
 
