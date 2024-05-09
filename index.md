@@ -38,6 +38,13 @@ Description: Collaborated with a team to apply Natural Language Processing, Unsu
 
 <img src = "images/NYT Class Image 2.png">
 
+---
+### [College Football Transfer Portal Prediction App](https://wolverines-capstone.vercel.app/)
+
+Language(s): Python, JavaScript
+
+Description: Worked with a team to build a web app that utilizes various trained binary Machine Learning classifiers to predict the probability that a college football player will transfer to a new team.
+
 
 ---
 
