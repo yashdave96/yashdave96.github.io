@@ -45,9 +45,9 @@ Language(s): Python, JavaScript
 
 Description: Worked with a team to build a web app that utilizes various trained binary Machine Learning classifiers to predict the probability that a college football player will transfer to a new team.
 
-<img src = "images/Capstone Img 1.png">
-
 <img src = "images/Capstone Img 2.png">
+
+<img src = "images/Capstone Img 1.png">
 
 
 ---
